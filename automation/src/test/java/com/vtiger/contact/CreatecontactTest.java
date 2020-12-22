@@ -37,4 +37,11 @@ public void div()
 	int b=20;
 	Assert.assertEquals(2, b/a);
 }
+public void div2() 
+{
+	System.out.println("div");
+	int a=10;
+	int b=20;
+	Assert.assertEquals(2, b/a);
+}
 }
