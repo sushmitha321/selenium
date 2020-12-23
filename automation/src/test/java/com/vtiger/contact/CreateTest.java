@@ -9,4 +9,9 @@ public void ma()
 {
 	System.out.println("skk");
 }
+@Test
+public void ma1()
+{
+	System.out.println("skk");
+}
 }
